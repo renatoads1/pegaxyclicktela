@@ -1,0 +1,10 @@
+C:\Users\Renato\source\repos\pegaxymouse\bin\Debug\pegaxymouse.exe.config
+C:\Users\Renato\source\repos\pegaxymouse\bin\Debug\pegaxymouse.exe
+C:\Users\Renato\source\repos\pegaxymouse\bin\Debug\pegaxymouse.pdb
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.csprojAssemblyReference.cache
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.Form1.resources
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.Properties.Resources.resources
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.csproj.GenerateResource.cache
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.csproj.CoreCompileInputs.cache
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.exe
+C:\Users\Renato\source\repos\pegaxymouse\obj\Debug\pegaxymouse.pdb
